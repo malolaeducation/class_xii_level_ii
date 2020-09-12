@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="4AB82EFD-EEDF-4498-B64E-4DF487E0DD40" version="0">
+<presentation availableOffline="1" guid="3A6BD154-A711-49BA-90B2-973217A730F1" version="0">
 	<info>
 		<title>2020-09-13 Malola Education Online Exam-37 Level II</title>
 		<description/>
 	</info>
-	<files index="id62" thumbnail="id58" totalSize="3892085">
+	<files index="id62" thumbnail="id58" totalSize="3892081">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
