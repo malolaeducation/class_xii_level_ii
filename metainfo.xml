@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="EC22910F-6A88-4A6B-9575-0FD58977C1EA" version="0">
+<presentation availableOffline="1" guid="633CCD3E-BA93-40B3-ACD6-7A0BE4A19CCD" version="0">
 	<info>
-		<title>2020-10-10 Malola Education Online Exam-44 Level II</title>
+		<title>2020-10-11 Malola Education Online Exam-45 Level II</title>
 		<description/>
 	</info>
-	<files index="id21" thumbnail="id17" totalSize="3292584">
+	<files index="id40" thumbnail="id36" totalSize="3406860">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
@@ -15,20 +15,39 @@
 		<file id="id7">data/fonts/fnt4.woff</file>
 		<file id="id8">data/html5-unsupported.html</file>
 		<file id="id9">data/html5.png</file>
-		<file id="id10">data/images/img-358234bfe6415e6a0a92fd19e3b9a57c4081f219.PNG</file>
-		<file id="id11">data/images/img-433c5ca4ab40efab0afa89ce3f18be1ae16ad7b8.PNG</file>
-		<file id="id12">data/images/img-6e206262cf9fd717a02c1b926d01dab5bfe14e0d.PNG</file>
-		<file id="id13">data/images/img-a75569004d64b37af86648cc5b0233fab7f5b24c.PNG</file>
-		<file id="id14">data/images/img-cfce9488416f09c972cec8c9cc3619771f05a9cf.jpg</file>
-		<file id="id15">data/ismplayer/app_store2x.png</file>
-		<file id="id16">data/ismplayer/play.svg</file>
-		<file id="id17">data/ismplayer/preview.png</file>
-		<file id="id18">data/ismplayer/style.css</file>
-		<file id="id19">data/ismplayer/style_mini.css</file>
-		<file id="id20">data/player.js</file>
-		<file id="id21">index.html</file>
-		<file id="id22">ismplayer.html</file>
-		<file id="id23">preview.png</file>
+		<file id="id10">data/images/img-1f334b18f5fbf30fc5fed76bc18c0631e540a2b9.PNG</file>
+		<file id="id11">data/images/img-21ec940185e441dd34a5b8f4a3338175a375c29e.jpg</file>
+		<file id="id12">data/images/img-398009620205c14ca5a97aba0c45e7f8fe3e4e77.png</file>
+		<file id="id13">data/images/img-3f0aa0a07edcca1666054c1cfac521436b6ecaf3.png</file>
+		<file id="id14">data/images/img-42c8e08df8cb884f61a3bb78253d2b08b888762a.png</file>
+		<file id="id15">data/images/img-497a6726e735e94daded101e1e64f30ab1afe9a0.jpg</file>
+		<file id="id16">data/images/img-65073d98e897fcbb0c060f5876b12a460a477fa1.jpg</file>
+		<file id="id17">data/images/img-6557f82839ba2f76f87c92e2b2b1caed9251d6cb.PNG</file>
+		<file id="id18">data/images/img-7ea77a0cdbd0be2ef1ae344e4b96e70338e4a638.PNG</file>
+		<file id="id19">data/images/img-7f719fd79464692232021486fd916b43e098d7ea.jpg</file>
+		<file id="id20">data/images/img-7fd1756fad294be2ece36fb2ec9d82c9547691d3.PNG</file>
+		<file id="id21">data/images/img-8044d3d337abbe0eeb521692eb6820623c814c76.PNG</file>
+		<file id="id22">data/images/img-8c41c9794caf5c45bf4ce7a28fcef85f161c68b0.jpg</file>
+		<file id="id23">data/images/img-9df4ed69da069eca8f10be0670e163c892ca9da9.PNG</file>
+		<file id="id24">data/images/img-b4c3a2e3fa93d31ddd64913c54bacf3bbb1ff404.jpg</file>
+		<file id="id25">data/images/img-b5a69d25e5e3565e301993ad9833d8b3170caea7.PNG</file>
+		<file id="id26">data/images/img-bd574718a8fa2b8e0ad3f927e2503657adc71746.PNG</file>
+		<file id="id27">data/images/img-cadb41c1ebac32a05b30f3cfd52ce1f46a6039cd.jpg</file>
+		<file id="id28">data/images/img-cdab9240f39bb7de9bbc1ade5ca7ecb09f9563a7.jpg</file>
+		<file id="id29">data/images/img-d0555631575f58d6e0a548c214134e990e24e511.jpg</file>
+		<file id="id30">data/images/img-e35bbb51ecca9c6cbf1f84891e1c75c8162cf98a.jpg</file>
+		<file id="id31">data/images/img-ee6adcdac9749b8e9d8d1aab7627b2c9e5bfbb85.jpg</file>
+		<file id="id32">data/images/img-f60faea7a37052d5aa255afe65d76baf87849229.jpg</file>
+		<file id="id33">data/images/img-fcd9ffea640b279af2ff8196181d9388129bcf90.png</file>
+		<file id="id34">data/ismplayer/app_store2x.png</file>
+		<file id="id35">data/ismplayer/play.svg</file>
+		<file id="id36">data/ismplayer/preview.png</file>
+		<file id="id37">data/ismplayer/style.css</file>
+		<file id="id38">data/ismplayer/style_mini.css</file>
+		<file id="id39">data/player.js</file>
+		<file id="id40">index.html</file>
+		<file id="id41">ismplayer.html</file>
+		<file id="id42">preview.png</file>
 	</files>
 </presentation>
 
