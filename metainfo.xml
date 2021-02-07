@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="F272404F-910F-4507-8DE0-2A0D23ECC1F9" version="0">
+<presentation availableOffline="1" guid="DE98D746-428C-456D-A839-9233AB12DAD9" version="0">
 	<info>
-		<title>2021-02-06 Malola Education Online Part Exam-5 Mains Level II</title>
+		<title>2021-02-07 Malola Education Online Part Exam-5 Advanced Level II</title>
 		<description/>
 	</info>
-	<files index="id42" thumbnail="id38" totalSize="3745154">
+	<files index="id37" thumbnail="id33" totalSize="3253351">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
@@ -14,42 +14,37 @@
 		<file id="id6">data/fonts/fnt3.woff</file>
 		<file id="id7">data/fonts/fnt4.woff</file>
 		<file id="id8">data/fonts/fnt5.woff</file>
-		<file id="id9">data/html5-unsupported.html</file>
-		<file id="id10">data/html5.png</file>
-		<file id="id11">data/images/img-0c69bb4fae69725a5752cb0e14a5bf7e32710d6f.PNG</file>
-		<file id="id12">data/images/img-0fc1481acf5e6a99ee1f6b69598b6c99cafaf83d.PNG</file>
-		<file id="id13">data/images/img-12f5157323ecf9bd6c54009cb53ebdbb1b1b931a.PNG</file>
-		<file id="id14">data/images/img-1a1611d3ab87f6b6c4986296d668f6cb438ed117.jpg</file>
-		<file id="id15">data/images/img-2f4a935e36816f6bdc9f8a7840d4682d7a2e2a62.PNG</file>
-		<file id="id16">data/images/img-39e7a72876dc0b116b46344a2f20e7e8905f5f4d.PNG</file>
-		<file id="id17">data/images/img-5254796632acd2afeb5b1980bc415fe9d01bd36c.PNG</file>
-		<file id="id18">data/images/img-6c4fe2594ff9ae0b94ee12a40701de3ba51f34a3.PNG</file>
-		<file id="id19">data/images/img-72aa0dcbc709d17a074d70f679e6a60da70d25ca.jpg</file>
-		<file id="id20">data/images/img-7741043b3710a4c274c241230fa99989c2270737.PNG</file>
-		<file id="id21">data/images/img-8e76116456d18cec934818c3a08ef8e428a0a011.PNG</file>
-		<file id="id22">data/images/img-8e9669f85d3b345d61f08a53500592d7ce96c689.jpg</file>
-		<file id="id23">data/images/img-94ef402e5df08c4caaa4df3374e742ad0da79079.PNG</file>
-		<file id="id24">data/images/img-9676fd6c1b94ae7b353b729fd554144ef0e06b91.PNG</file>
-		<file id="id25">data/images/img-a4bf4e145d9aba1e987aadd06402ca645aaf0685.PNG</file>
-		<file id="id26">data/images/img-aab3ef4f0fc71a4303a8a0b511bd3ea1c2a7f7d7.PNG</file>
-		<file id="id27">data/images/img-ab4360720a563cb68de08bfd282625bc0ef9fa8a.PNG</file>
-		<file id="id28">data/images/img-bc82b8dd8cad3afbb34a8ca2252caa46c0d01d27.PNG</file>
-		<file id="id29">data/images/img-bd4e5d49a846f61e9a25c35acdb963797899261a.PNG</file>
-		<file id="id30">data/images/img-db978603ffb0e4a5ab4be3ed27d8209ecf5ffc3c.jpg</file>
-		<file id="id31">data/images/img-dbf793dceaf8c92132fb61e6b3ef095c7a739636.jpg</file>
-		<file id="id32">data/images/img-dd070bfec08a10a5baeb7056c82d2e8731b73839.PNG</file>
-		<file id="id33">data/images/img-e341e71cb0926193082328e9d97f7d6a96f18ada.PNG</file>
-		<file id="id34">data/images/img-ea5bf425f96a0a64f92ea7efa950c4f442653198.PNG</file>
-		<file id="id35">data/images/img-fd11d348c6d91dd845dfc22ec90ee87987ed1fdf.PNG</file>
-		<file id="id36">data/ismplayer/app_store2x.png</file>
-		<file id="id37">data/ismplayer/play.svg</file>
-		<file id="id38">data/ismplayer/preview.png</file>
-		<file id="id39">data/ismplayer/style.css</file>
-		<file id="id40">data/ismplayer/style_mini.css</file>
-		<file id="id41">data/player.js</file>
-		<file id="id42">index.html</file>
-		<file id="id43">ismplayer.html</file>
-		<file id="id44">preview.png</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/fonts/fnt7.woff</file>
+		<file id="id11">data/html5-unsupported.html</file>
+		<file id="id12">data/html5.png</file>
+		<file id="id13">data/images/img-0322e5a87a7041eab87e9174b0cc04f55237e980.PNG</file>
+		<file id="id14">data/images/img-0a7bfa9bd7f7d54eda0587dbb215285c8f6b42a2.PNG</file>
+		<file id="id15">data/images/img-1efb635726c4d2fd6d47e9ba3d2a83f2af8b61cf.PNG</file>
+		<file id="id16">data/images/img-36896319a961b1d50ef3e01f72750b3b696990fa.PNG</file>
+		<file id="id17">data/images/img-463bce575f6fc16646f6e5535a70266cbcdd1dc2.PNG</file>
+		<file id="id18">data/images/img-509bde444f3044e6619b09e3409bc981b2e29b73.PNG</file>
+		<file id="id19">data/images/img-53ed81cc15ed0f7638782b85631cae3b902b9914.PNG</file>
+		<file id="id20">data/images/img-7487017fc4e9c6831986f8807cf2d10e27d8b00c.PNG</file>
+		<file id="id21">data/images/img-7c6883183089b9b0ca452d8f166c72ecf9265122.PNG</file>
+		<file id="id22">data/images/img-8325fb3b602a0ec562d7b59990b061ccbf18f93e.PNG</file>
+		<file id="id23">data/images/img-9ae26822937264a4f9b8ce4b0662f0f0769ce36c.PNG</file>
+		<file id="id24">data/images/img-a6670dc3318abd120953417276916d8569360e01.PNG</file>
+		<file id="id25">data/images/img-b2c14bf1c93beaff2fdea3de5c3a1b568bb0b5e3.PNG</file>
+		<file id="id26">data/images/img-bb1c6564a877258e8ccff1cc3e1ee9c1be019cbf.PNG</file>
+		<file id="id27">data/images/img-bc2b860feac6a5cb44ab20a1c39e209689ffcb92.PNG</file>
+		<file id="id28">data/images/img-bd14f95b30a7ce04f32c8d8b987a28d132684909.PNG</file>
+		<file id="id29">data/images/img-f0ddf1aeecbc9a3416c5accdbf4ca8b24c17fe18.PNG</file>
+		<file id="id30">data/images/img-f62b0bf6b392fe8fe073dd766faafc18bd214bb9.PNG</file>
+		<file id="id31">data/ismplayer/app_store2x.png</file>
+		<file id="id32">data/ismplayer/play.svg</file>
+		<file id="id33">data/ismplayer/preview.png</file>
+		<file id="id34">data/ismplayer/style.css</file>
+		<file id="id35">data/ismplayer/style_mini.css</file>
+		<file id="id36">data/player.js</file>
+		<file id="id37">index.html</file>
+		<file id="id38">ismplayer.html</file>
+		<file id="id39">preview.png</file>
 	</files>
 </presentation>
 
